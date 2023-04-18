@@ -1,0 +1,2 @@
+# mlp
+playing with micrograd
